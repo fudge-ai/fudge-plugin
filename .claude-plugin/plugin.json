@@ -1,0 +1,23 @@
+{
+    "name": "fudge",
+    "displayName": "Fudge",
+    "version": "1.0.0",
+    "description": "Improve your Shopify store with Fudge: build pages and changes as drafts you approve, find what to fix, and measure how your store is doing.",
+    "author": {
+        "name": "Fudge",
+        "email": "support@fudge.ai",
+        "url": "https://fudge.ai"
+    },
+    "homepage": "https://fudge.ai",
+    "keywords": [
+        "shopify",
+        "ecommerce",
+        "seo",
+        "conversion",
+        "store design"
+    ],
+    "icon": "./assets/icon.png",
+    "supportUrl": "mailto:support@fudge.ai",
+    "privacyPolicyUrl": "https://www.fudge.ai/privacy-policy/",
+    "termsOfServiceUrl": "https://www.fudge.ai/terms-of-service/"
+}
