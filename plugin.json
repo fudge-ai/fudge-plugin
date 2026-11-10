@@ -1,0 +1,21 @@
+{
+    "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+    "name": "fudge",
+    "version": "1.0.1",
+    "description": "Run your Shopify store with AI: make changes as drafts you approve, find what to fix, and measure how your store is doing.",
+    "author": {
+        "name": "Fudge",
+        "email": "support@fudge.ai",
+        "url": "https://fudge.ai"
+    },
+    "homepage": "https://fudge.ai",
+    "repository": "https://github.com/fudge-ai/fudge-plugin",
+    "license": "SEE LICENSE IN LICENSE",
+    "keywords": [
+        "shopify",
+        "ecommerce",
+        "seo",
+        "conversion",
+        "store design"
+    ]
+}
