@@ -9,13 +9,13 @@
         "url": "https://fudge.ai"
     },
     "homepage": "https://fudge.ai",
-    "repository": "https://github.com/fudge-ai/fudge-plugin",
-    "license": "SEE LICENSE IN LICENSE",
     "keywords": [
         "shopify",
         "ecommerce",
         "seo",
         "conversion",
         "store design"
-    ]
+    ],
+    "repository": "https://github.com/fudge-ai/fudge-plugin",
+    "license": "SEE LICENSE IN LICENSE"
 }
