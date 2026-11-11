@@ -1,0 +1,14 @@
+{
+    "name": "fudge",
+    "version": "1.0.1",
+    "description": "Run your Shopify store with AI: make changes as drafts you approve, find what to fix, and measure how your store is doing.",
+    "mcpServers": {
+        "fudge": {
+            "type": "http",
+            "url": "https://mcp.fudge.ai/mcp",
+            "oauth": {
+                "enabled": true
+            }
+        }
+    }
+}
